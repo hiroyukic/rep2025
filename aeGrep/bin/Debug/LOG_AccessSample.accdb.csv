@@ -1,0 +1,4 @@
+﻿[2025-12-31 16:08:42.093][1][1][<検索フォルダ>C:\tmp\AccessSample.accdb]
+[2025-12-31 16:08:42.093][1][3][<Dir>, <FileName>, <SearchWord>, <LineNum>, <Line>]
+[2025-12-31 16:08:48.843][1][3][,C:\tmp\src_AccessSample.accdb,Module1.bas,Microsoft,16,‘strCnxn = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\\テスト　データ.accdb"]
+[2025-12-31 16:08:48.851][1][3][,C:\tmp\src_AccessSample.accdb,Module1.bas,update,43,cmdChange.CommandText = "UPDATE テーブル1 SET [テーブル1].名前 = ""bbbb"", [テーブル1].日付 = """ & Now() & """ WHERE ((([テーブル1].ID)=1));"]
