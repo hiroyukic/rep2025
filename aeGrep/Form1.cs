@@ -17,6 +17,10 @@ using Microsoft.Office.Interop.Access.Dao;
 using Application = System.Windows.Forms.Application;
 
 ////////////////////////////////////////////////////////////
+<<<<<<< HEAD
+=======
+//11:18
+>>>>>>> origin/xxx
 
 namespace aeGrep
 {
